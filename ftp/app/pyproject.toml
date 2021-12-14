@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "FTP Retriever"
+version = "0.1.0"
+description = ""
+authors = ["Admin <admin@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pydantic = "^1.8.2"
